@@ -1,12 +1,14 @@
-import { Button } from './styles'
+import { Button } from "./styles";
 
-interface Props {
-  title: string;
+
+interface PropsButton {
+  title: string
+
 }
 
-export function ButtonHeader({ title }: Props) {
+export function ButtonHeader({ title, }: PropsButton) {
   return (
-    <Button>
+    <Button >
       {title}
     </Button>
   )
