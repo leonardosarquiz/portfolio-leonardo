@@ -1,0 +1,84 @@
+button {
+  all: unset;
+}
+
+
+
+.container-menu-mobile {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+
+}
+
+.menu-mobile {
+  margin-top: 20px;
+  margin-right: 22px;
+}
+
+.container-content-menu-mobile {
+  width: 114px;
+  height: 235px;
+  flex-shrink: 0;
+  margin-right: 22px;
+  margin-top: 14px;
+  border-radius: 5px;
+  border: 0.5px solid #8D8D8D;
+  background: rgba(12, 16, 27, 0.50);
+  backdrop-filter: blur(3.5px);
+}
+
+.container-button-x {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+}
+
+.x-button {
+  color: #0094FF;
+  margin-top: 10px;
+  margin-right: 9px;
+}
+
+li {
+  list-style: none;
+}
+
+.container-nav-header ul {
+
+  padding: 0;
+  margin: 0;
+  padding-left: 23px;
+}
+
+.btn-nav-header {
+  padding-bottom: 11px;
+
+  color: #0094FF;
+
+  font-family: 'Darker Grotesque';
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  letter-spacing: 3.7px;
+  text-transform: uppercase;
+}
+
+.btn-nav-header:hover {
+  opacity: 0.7;
+}
+
+.midia-social {
+  display: flex;
+  justify-content: center;
+
+}
+
+.midia-social a {
+  padding: 1px;
+}
+
+.icons-header {
+  fill: #0094FF
+}

@@ -39,7 +39,14 @@ export function PageOne() {
           <p>Olá, eu sou o</p>
           <p>Leonardo</p>
           <p>desenvolvedor Full-Stack</p>
+
         </div>
+
+
+
+
+
+
 
 
         <div>

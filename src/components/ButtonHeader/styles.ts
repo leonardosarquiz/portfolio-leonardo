@@ -20,7 +20,8 @@ export const Button = styled.button<ButtonProps>`
  font-weight: 700;
  margin-right: 6px;
  margin-left: 6px;
-
+ letter-spacing: 3.03px;
+ font-style: normal;
 
 
  &:hover{
